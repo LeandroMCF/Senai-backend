@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\bin\Debug\netcoreapp3.1\Senai-backend.exe
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\bin\Debug\netcoreapp3.1\Senai-backend.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\bin\Debug\netcoreapp3.1\Senai-backend.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\bin\Debug\netcoreapp3.1\Senai-backend.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\bin\Debug\netcoreapp3.1\Senai-backend.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\bin\Debug\netcoreapp3.1\Senai-backend.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\obj\Debug\netcoreapp3.1\Senai-backend.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\obj\Debug\netcoreapp3.1\Senai-backend.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\obj\Debug\netcoreapp3.1\Senai-backend.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\obj\Debug\netcoreapp3.1\Senai-backend.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\obj\Debug\netcoreapp3.1\Senai-backend.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\obj\Debug\netcoreapp3.1\Senai-backend.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Senai-backend\obj\Debug\netcoreapp3.1\Senai-backend.genruntimeconfig.cache
