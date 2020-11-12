@@ -6,24 +6,33 @@ namespace Senai_backend
     {
         static void Main(string[] args)
         {
-            //aqui vai o código
-            Console.WriteLine("Digite seu nome");
-            string nome = Console.ReadLine();
-            Console.WriteLine("Bem vindo, "+nome);
-            
-            int valor1;
-            int valor2;
-            int soma;
+            float nota1, nota2, nota3, media;
+            string nome;
 
-            Console.WriteLine("Somando");
-            Console.WriteLine("-----------------------");
-            Console.Write("Digite o primeiro valor: ");
-            valor1 = int.Parse(Console.ReadLine());
-            Console.Write("Digite o segundo valor: ");
-            valor2 = int.Parse(Console.ReadLine());
-            soma = valor1 + valor2;
-            Console.Write("A soma de "+valor1+" + "+valor2+" é igual a: ");
-            Console.Write(soma);
+            Console.Write("Digite o nome do alono: ");
+            nome = Console.ReadLine();
+
+            Console.Write("Digite a primeira nota: ");
+            nota1 = float.Parse(Console.ReadLine());
+
+            Console.Write("Digite a segunda nota: ");
+            nota2 = float.Parse(Console.ReadLine());
+
+            Console.Write("Digite a terceira nota: ");
+            nota3 = float.Parse(Console.ReadLine());
+
+            media = (nota1 + nota2 + nota3)/3;
+
+            if (media <= 5)
+            {
+                Console.WriteLine("O aluno "+nome+" não passou de ano");
+                Console.WriteLine(media);
+            }
+            else
+            {
+                Console.WriteLine("O alnuno "+nome+" passou de ano, parabens!");   
+                Console.WriteLine(media);
+            }
         }
     }
 }
