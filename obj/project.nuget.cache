@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mx2piPi+CHJWet8exBINmvQWELVW5UBcnTDyxtCPyyWqVOJl+rkEYs1XEsVT75cy7nJTqDtnn/APMLa6khOKHA==",
+  "dgSpecHash": "hZ8Ue5ys+PhvZcQN88/tVwZB6mkwUExP/35Mxe2Yv8YJmsAMxMagKHpPu6+z924Gs8xJi21n76I9ubO04YzjfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Senai\\Senai-backend\\Senai-backend.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\dev\\Desktop\\Senai-backend\\Senai-backend.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
